@@ -1,5 +1,5 @@
 # DLMS---Driving-License-Management-System
-DLMS (Driving License Management System) is a web application which was designed for use of Department of Motor Traffic to automate the process of issuing drivers’ license and to facilitate the flow of information within the department.
+DLMS (Driving License Management System) is a web application which was designed as a group project for use of Department of Motor Traffic to automate the process of issuing drivers’ license and to facilitate the flow of information within the department.
 This system can make the basic operations of issuing driving license more efficient, provide fast response to users and store and retrieve information accurately. Some of the objectives of the system are:
 
 • Ensure data integrity and security
