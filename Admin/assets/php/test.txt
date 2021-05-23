@@ -1,0 +1,81 @@
+<div class="right_col" role="main"></div>
+
+<!-- footer content -->
+<footer>
+    <div class="pull-right">
+        Driving License Management System
+    </div>
+    <div class="clearfix"></div>
+</footer>
+<!-- /footer content -->
+</div>
+</div>
+
+
+    <div class="modal fade" id="myModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="static" data-keyboard="false" >
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header-success">
+
+                </div>
+              
+                <div class="modal-body">
+                    Trial Details Document Uploaded Successfully
+                </div>
+                <div class="modal-footer">
+                    <a href="Admin-Dashboard.php"><button type="button" class="btn btn-success">Ok</button></a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="modal fade" id="myModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="static" data-keyboard="false" >
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header-success">
+
+                    <i class="fa fa-times" aria-hidden="true"></i></button>
+                </div>
+              
+                <div class="modal-body">
+                    Upload Failed; Please Try Again
+                </div>
+                <div class="modal-footer">
+                    <a href="Admin-Dashboard.php"><button type="button" class="btn btn-danger">Ok</button></a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script>
+        $(document).ready(function() {
+            var success = "<?php print($success); ?>";
+
+            if (success == 1) {
+                $('#myModal').modal('show');
+
+            }
+            else{
+                $('#myModal2').modal('show');
+
+            }
+
+        });
+    </script>
+
+
+    <!-- Bootstrap -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.bundle.min.js"></script>
+    <!-- Custom Theme Scripts -->
+    <script src="Header/build/js/custom.min.js"></script>
+
+</body>
+
+
+
+</html>

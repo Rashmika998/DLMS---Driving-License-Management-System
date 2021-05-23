@@ -1,0 +1,45 @@
+.profile{
+   
+}
+.picbtn :focus,.picbtn.focus, .picbtn:active{
+    background-color:#0f1e2c !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.savebtn:hover{
+    background-color:rgb(215, 223, 233);
+    color: #0f1e2c;
+    
+}
+
+.savebtn{
+    background-color:#0f1e2c;
+    border: none;
+    
+}
+
+.picbtn,.buttonimg{
+    background-color:#0f1e2c;
+    border: none;
+}
+
+.picbtn:hover, .buttonimg:hover{
+    background-color:rgb(215, 223, 233);
+    color: #0f1e2c;
+    
+}
+
+::placeholder{
+    font-size: small;
+}
+
+
+
+
+  
+
+  
+  
+ 
+ 
