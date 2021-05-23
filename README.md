@@ -13,3 +13,5 @@ This system can make the basic operations of issuing driving license more effici
 • Ease basic functions relates to the process of issuing driver’s license
 
 DLMS will reduce the difficulties faced on the manual existing system, with minimum error. The user-friendly aspect of the system will guide its users to complete their tasks. See the report for more details.
+
+See the demonstration video from here https://drive.google.com/file/d/1z12kQ7S3_PLGuvMNK3T6TlDzZOkByte8/view?usp=sharing
