@@ -26,7 +26,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-<meta name="google-site-verification" content="Vl3pRBJzwoHbGMvNcHKOXZnS-CTlk3HnPbg6UHJpkTg" />
+  <meta name="google-site-verification" content="PslB5G-dEoUZ5XU1BX8qMT35g7LhF5q-275R9DAr_Yk" />
   <title translate="no">DLMS-Driving License Management System</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
